@@ -16,4 +16,9 @@
         app:layout_constraintTop_toTopOf="parent"
         />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TextView>
 </androidx.constraintlayout.widget.ConstraintLayout>
